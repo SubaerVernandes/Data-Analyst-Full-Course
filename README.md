@@ -149,6 +149,6 @@ pip install pandas numpy matplotlib seaborn
 
 ## 👨‍💻 Author
 
-**Subaer Vernandes**
+**Faris Fatur Rohman**
 
 Aspiring Data Analyst passionate about Python, SQL, Data Visualization, and Business Intelligence.
