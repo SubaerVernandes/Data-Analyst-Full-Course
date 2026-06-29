@@ -153,29 +153,52 @@ Topics include:
 
 # 📊 Power BI Dashboard
 
-The repository includes an interactive Power BI dashboard demonstrating business intelligence and reporting techniques.
-
-Dashboard features include:
-
-- KPI Cards
-- Interactive Filters
-- Business Metrics
-- Trend Analysis
-- Category Analysis
-- Charts & Visualizations
-- Business Insights
-
-> **Dashboard Preview**
->
-> *(You can add a screenshot of your Power BI dashboard here for a more attractive portfolio.)*
-
-Example:
-
-```text
-images/dashboard.png
-```
+This repository includes an interactive Power BI dashboard that presents key insights through multiple visualizations and interactive reports.
 
 ---
+
+## 📄 Dashboard Overview – Page 1
+
+The first dashboard page provides an executive summary of the dataset, including:
+
+- KPI Cards
+- Population by Year
+- GDP by Continent
+- Life Expectancy by Continent
+- Treemap Visualization
+- Interactive Year Filter
+
+<p align="center">
+  <img src="images/dashboard-page1.png" width="900"/>
+</p>
+
+---
+
+## 📄 Dashboard Overview – Page 2
+
+The second dashboard focuses on trend analysis across continents.
+
+Visualizations include:
+
+- Population by Continent
+- GDP by Continent
+- Average Life Expectancy by Continent
+
+<p align="center">
+  <img src="images/dashboard-page2.png" width="900"/>
+</p>
+
+---
+
+### Dashboard File
+
+The original Power BI dashboard can be opened using:
+
+```
+Power Bi for Data Analyst.pbix
+```
+
+Open it with **Microsoft Power BI Desktop**.
 
 # 🚀 Learning Workflow
 
