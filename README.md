@@ -1,154 +1,322 @@
-# Data-Analyst-Full-Course
-
-
 # 📊 Data Analyst Full Course
 
-A complete Data Analytics portfolio demonstrating the end-to-end workflow of a data analyst, from data preparation and exploratory analysis to SQL querying and interactive dashboard development using Power BI.
+A comprehensive portfolio showcasing my journey in learning **Data Analytics** using industry-standard tools such as **Microsoft Excel, Python, SQL, PostgreSQL, SQL Server, and Power BI**.
+
+This repository demonstrates the complete data analysis workflow—from data preparation and cleaning to exploratory data analysis (EDA), SQL querying, data visualization, and interactive dashboard development.
 
 ---
 
-## 📖 Overview
+## 👋 About This Repository
 
-This repository contains hands-on exercises and projects covering the fundamental skills required for a Data Analyst role. It demonstrates the complete analytics workflow including:
+This repository was created to document my learning journey and hands-on practice as an aspiring **Data Analyst**.
 
-- Data loading and preprocessing
-- Exploratory Data Analysis (EDA)
-- Data cleaning
-- Data manipulation with Python
-- SQL analysis using PostgreSQL, SQL Server, and standard SQL
-- Data visualization
-- Interactive dashboard development using Power BI
+It contains notebooks, SQL scripts, Excel exercises, datasets, and Power BI dashboards that demonstrate the essential technical skills required in data analytics.
+
+Throughout this repository, I focus on applying data analysis techniques to transform raw data into meaningful insights using modern analytical tools.
 
 ---
 
-## 📂 Repository Structure
+# 💼 Core Skills
 
+- 📊 Microsoft Excel
+- 🐍 Python
+- 🐼 Pandas
+- 🔢 NumPy
+- 📈 Matplotlib
+- 📉 Seaborn
+- 🗄 SQL
+- 🐘 PostgreSQL
+- 🖥 SQL Server
+- 📊 Power BI
+- 🧹 Data Cleaning
+- 📈 Exploratory Data Analysis (EDA)
+- 📊 Dashboard Design
+- 📑 Business Reporting
+
+---
+
+# 📂 Repository Structure
+
+```text
+📁 Data Python/
+│
+├── datasets
+├── notebooks
+│
+📁 data sql/
+
+📄 Excel for Data Analyst.xlsx
+📄 Python_Fundamentals.ipynb
+📄 Pandas_for_Data_Analyst.ipynb
+📄 Numpy_and_Data_Manipulation.ipynb
+📄 Matplotlib_for_Data_Visualization.ipynb
+📄 Seaborn_for_Statistical_Data_Visualization.ipynb
+📄 SQL_for_Data_Analytics.sql
+📄 Power BI for Data Analyst.pbix
+📄 README.md
 ```
-Data Python/
-data sql/
-Excel for Data Analyst.xlsx
-Python_Fundamentals.ipynb
-Pandas_for_Data_Analyst.ipynb
-Numpy_and_Data_Manipulation.ipynb
-Matplotlib_for_Data_Visualization.ipynb
-Seaborn_for_Statistical_Data_Visualization.ipynb
-SQL_for_Data_Analytics.sql
-Power Bi for Data Analyst.pbix
-```
 
 ---
 
-## 📊 Dataset
+# 📊 Dataset
 
-The repository includes sample datasets used throughout the notebooks and SQL exercises for learning data analysis concepts.
+The repository contains sample datasets used for:
+
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis
+- SQL Practice
+- Data Visualization
+- Dashboard Development
+
+The datasets are intended for educational purposes and demonstrate real-world analytical workflows.
 
 ---
 
-## 🛠 Tools & Technologies
+# 📑 Excel for Data Analysis
 
-- Python
+The Excel workbook demonstrates fundamental spreadsheet skills commonly used by Data Analysts, including:
+
+- Data Entry
+- Data Formatting
+- Sorting & Filtering
+- Conditional Formatting
+- Lookup Functions
+- Pivot Tables
+- Charts
+- Basic Data Analysis
+
+---
+
+# 🐍 Python for Data Analysis
+
+The Python notebooks cover fundamental programming concepts and data analysis techniques using popular libraries.
+
+Topics include:
+
+- Python Fundamentals
+- Variables & Data Types
+- Functions
+- Loops
+- Conditional Statements
 - Pandas
 - NumPy
+- Data Manipulation
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+
+---
+
+# 📈 Data Visualization
+
+Visualization notebooks demonstrate how to communicate insights effectively using Python libraries.
+
+Tools used:
+
 - Matplotlib
 - Seaborn
+
+Visualization topics include:
+
+- Line Charts
+- Bar Charts
+- Scatter Plots
+- Histograms
+- Boxplots
+- Correlation Heatmaps
+- Distribution Analysis
+
+---
+
+# 🗄 SQL for Data Analytics
+
+SQL exercises are written using standard SQL syntax and can be executed in:
+
 - PostgreSQL
 - SQL Server
-- SQL
-- Microsoft Excel
-- Power BI
-- Jupyter Notebook
 
----
+Topics include:
 
-## 🚀 Learning Workflow
-
-### 1. Python Fundamentals
-- Variables
-- Data types
-- Loops
-- Functions
-
-### 2. Data Manipulation
-- Pandas
-- NumPy
-- Data transformation
-
-### 3. Exploratory Data Analysis
-- Summary statistics
-- Missing values
-- Outlier detection
-- Data visualization
-
-### 4. SQL Analytics
 - SELECT
-- JOIN
+- WHERE
+- ORDER BY
 - GROUP BY
-- Aggregate functions
-- Window functions
-
-### 5. Data Visualization
-- Matplotlib
-- Seaborn
-
-### 6. Power BI Dashboard
-- Data modeling
-- DAX measures
-- Interactive dashboard
-- Business insights
+- HAVING
+- JOIN
+- CASE WHEN
+- Aggregate Functions
+- Common Table Expressions (CTE)
+- Window Functions
+- Subqueries
 
 ---
 
-## 📈 Dashboard
+# 📊 Power BI Dashboard
 
-The repository includes a Power BI dashboard demonstrating interactive reporting and business analytics.
+The repository includes an interactive Power BI dashboard demonstrating business intelligence and reporting techniques.
 
-Features include:
+Dashboard features include:
 
 - KPI Cards
+- Interactive Filters
+- Business Metrics
 - Trend Analysis
 - Category Analysis
-- Interactive Filters
-- Charts and Visualizations
+- Charts & Visualizations
+- Business Insights
+
+> **Dashboard Preview**
+>
+> *(You can add a screenshot of your Power BI dashboard here for a more attractive portfolio.)*
+
+Example:
+
+```text
+images/dashboard.png
+```
 
 ---
 
-## 📌 Learning Outcomes
+# 🚀 Learning Workflow
 
-Through this repository you can learn how to:
+The overall workflow followed throughout this repository:
 
-- Import and clean datasets
-- Perform Exploratory Data Analysis
-- Analyze data using SQL
-- Create effective visualizations
-- Build interactive Power BI dashboards
-- Present analytical insights
+### 1️⃣ Data Collection
+
+- Import datasets
+- Understand dataset structure
+- Inspect variables
+
+### 2️⃣ Data Preparation
+
+- Data Cleaning
+- Handle Missing Values
+- Remove Duplicates
+- Data Formatting
+
+### 3️⃣ Exploratory Data Analysis (EDA)
+
+- Summary Statistics
+- Distribution Analysis
+- Outlier Detection
+- Correlation Analysis
+- Feature Exploration
+
+### 4️⃣ SQL Analysis
+
+- Query datasets
+- Aggregate information
+- Join multiple tables
+- Generate business insights
+
+### 5️⃣ Data Visualization
+
+- Create charts
+- Explore trends
+- Compare categories
+- Present findings visually
+
+### 6️⃣ Dashboard Development
+
+- Import data into Power BI
+- Create relationships
+- Design interactive dashboards
+- Present business insights
 
 ---
 
-## ▶️ How to Run
+# 🎯 Learning Outcomes
 
-1. Clone the repository
+Through this repository, I have developed practical experience in:
+
+- ✅ Microsoft Excel for data preparation
+- ✅ Python programming
+- ✅ Data Cleaning
+- ✅ Data Transformation
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ SQL Query Development
+- ✅ Database Analysis
+- ✅ Data Visualization
+- ✅ Power BI Dashboard Development
+- ✅ Business Insight Generation
+
+---
+
+# 🛠 Tools & Technologies
+
+| Category | Tools |
+|-----------|-------|
+| Spreadsheet | Microsoft Excel |
+| Programming | Python |
+| Libraries | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn |
+| Database | PostgreSQL, SQL Server |
+| Query Language | SQL |
+| Business Intelligence | Power BI |
+| Development Environment | Jupyter Notebook |
+
+---
+
+# ▶️ How to Run
+
+### 1. Clone this repository
 
 ```bash
 git clone https://github.com/SubaerVernandes/Data-Analyst-Full-Course.git
 ```
 
-2. Install Python libraries
+### 2. Install required Python libraries
 
 ```bash
 pip install pandas numpy matplotlib seaborn
 ```
 
-3. Open the Jupyter notebooks.
+### 3. Open the Jupyter Notebooks
 
-4. Execute the SQL scripts using PostgreSQL or SQL Server.
+Run the notebooks sequentially to explore Python programming, data manipulation, and visualization.
 
-5. Open the Power BI (.pbix) file using Power BI Desktop.
+### 4. Execute SQL Scripts
+
+Run the SQL scripts using PostgreSQL or SQL Server.
+
+### 5. Explore Excel Exercises
+
+Open the Excel workbook to review spreadsheet-based data analysis techniques.
+
+### 6. Open the Power BI Dashboard
+
+Use **Power BI Desktop** to open the `.pbix` file and interact with the dashboard.
 
 ---
 
-## 👨‍💻 Author
+# 📌 Future Improvements
+
+This repository will continue to grow with additional projects, including:
+
+- Advanced SQL Projects
+- Power BI Business Dashboards
+- Real-world Case Studies
+- Statistical Analysis
+- Machine Learning Projects
+- Business Analytics Projects
+
+---
+
+# 👨‍💻 About Me
 
 **Faris Fatur Rohman**
 
-Aspiring Data Analyst passionate about Python, SQL, Data Visualization, and Business Intelligence.
+Mathematics Undergraduate | Aspiring Data Analyst
+
+I am passionate about transforming raw data into meaningful insights using **Excel, Python, SQL, and Power BI**. I continuously build practical projects to strengthen my analytical skills and prepare for a professional career in Data Analytics.
+
+---
+
+# 📫 Connect With Me
+
+- **GitHub:** https://github.com/SubaerVernandes
+- **LinkedIn:** *(Add your LinkedIn profile here)*
+
+---
+
+⭐ **If you find this repository useful, feel free to star it and follow my GitHub for future Data Analytics projects!**
