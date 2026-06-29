@@ -151,7 +151,7 @@ Topics include:
 
 ---
 
-# 📊 Power BI Dashboard
+# 📊 Power BI Dashboard.
 
 This repository includes an interactive Power BI dashboard that presents key insights through multiple visualizations and interactive reports.
 
@@ -169,7 +169,7 @@ The first dashboard page provides an executive summary of the dataset, including
 - Interactive Year Filter
 
 <p align="center">
-  <img src="images/dashboard-page1.png" width="900"/>
+  <img src="Dashboar Power Bi/dashboard-page1.png" width="900"/>
 </p>
 
 ---
@@ -185,7 +185,7 @@ Visualizations include:
 - Average Life Expectancy by Continent
 
 <p align="center">
-  <img src="images/dashboard-page2.png" width="900"/>
+  <img src="Dashboar Power Bi/dashboard-page2.png" width="900"/>
 </p>
 
 ---
