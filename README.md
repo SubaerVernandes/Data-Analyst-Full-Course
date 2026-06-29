@@ -312,18 +312,6 @@ Use **Power BI Desktop** to open the `.pbix` file and interact with the dashboar
 
 ---
 
-# 📌 Future Improvements
-
-This repository will continue to grow with additional projects, including:
-
-- Advanced SQL Projects
-- Power BI Business Dashboards
-- Real-world Case Studies
-- Statistical Analysis
-- Machine Learning Projects
-- Business Analytics Projects
-
----
 
 # 👨‍💻 About Me
 
