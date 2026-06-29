@@ -338,7 +338,6 @@ I am passionate about transforming raw data into meaningful insights using **Exc
 # 📫 Connect With Me
 
 - **GitHub:** https://github.com/SubaerVernandes
-- **LinkedIn:** *(Add your LinkedIn profile here)*
 
 ---
 
