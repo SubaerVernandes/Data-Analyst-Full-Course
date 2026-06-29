@@ -169,7 +169,7 @@ The first dashboard page provides an executive summary of the dataset, including
 - Interactive Year Filter
 
 <p align="center">
-  <img src="images/dashboard-page-1.png" width="900"/>
+  <img src="Dashboard_Power_Bi/dashboard-page-1.png" width="900"/>
 </p>
 
 ---
@@ -185,7 +185,7 @@ Visualizations include:
 - Average Life Expectancy by Continent
 
 <p align="center">
-  <img src="images/dashboard-page-2.png" width="900"/>
+  <img src="Dashboard_Power_Bi/dashboard-page-2.png" width="900"/>
 </p>
 
 ---
